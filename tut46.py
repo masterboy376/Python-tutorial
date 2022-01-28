@@ -1,0 +1,3 @@
+import tut46_if__name____main__
+
+tut46_if__name____main__.funcGreet('hihihihih')

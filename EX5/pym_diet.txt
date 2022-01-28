@@ -1,0 +1,4 @@
+Breakfast: poha, idli.sambar, fruit juice, custard, paratha
+Lunch: rasam rice, biriyani, veg thali
+Snack: uttapam, poha, dosa
+Dinner: veg soup
