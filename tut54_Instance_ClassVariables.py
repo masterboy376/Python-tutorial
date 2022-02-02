@@ -13,3 +13,4 @@ Employee.no_of_leaves = 31
 
 print(f"instance variables {sam.name} and {pym.name} and {sam.no_of_leaves} and {pym.no_of_leaves}")
 print(f"class variables {Employee.no_of_leaves}")
+print(Employee.__dict__)# for variables
